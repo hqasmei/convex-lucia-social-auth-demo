@@ -1,0 +1,9 @@
+{
+  "hasSrc": true,
+  "packages": [],
+  "preferredPackageManager": "npm",
+  "t3": false,
+  "alias": "@",
+  "analytics": true,
+  "rootPath": "src/"
+}
